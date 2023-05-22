@@ -4,9 +4,10 @@
 
 ### Disclaimer
 This is the very first data analysis I do on my own, I appreciate any comment or suggestion for improvement.
+This project has been created based on the [assignment](assignment.md) and template of the neuefische repository [ds-eda-project-template](https://github.com/neuefische/ds-eda-project-template/blob/main/assignment.md). Further guidance was provided by the content of the [workflow file](workflow.md).
 
 ### Project
-This project has been created based on the assignment and template of the neuefische repository [ds-eda-project-template](https://github.com/neuefische/ds-eda-project-template/blob/main/assignment.md). It contains the analysis of actual housing data of King County, WA, centered around the wishes of an imaginary client, and the presentation of the results thereof. 
+It contains the analysis of actual housing data of King County, WA, centered around the wishes of an imaginary client, and the presentation of the results thereof. 
 
 ## Requirements
 
